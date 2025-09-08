@@ -27,7 +27,8 @@ Share via GitHub for reproducibility
 
 devops-sandbox-monitoring/  
  ├── setup.sh  
- ├── prometheus.yml  
+ ├── prometheus.yml 
+ ├── Project Report.pdf 
  ├── alerts/  
  │    └── grafana_cpu_alert.json  
  ├── dashboards/  
